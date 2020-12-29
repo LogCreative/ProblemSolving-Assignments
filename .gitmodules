@@ -1,0 +1,3 @@
+[submodule "GraphGenDecomp"]
+	path = GraphGenDecomp
+	url = https://github.com/LogCreative/GraphGenDecomp.git
