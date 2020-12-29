@@ -1,0 +1,9 @@
+    package main
+
+    import "fmt"
+
+    func main() {
+      var x int = 73
+      fmt.Println(x)
+      fmt.Println(&x)
+    }
