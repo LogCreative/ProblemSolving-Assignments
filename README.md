@@ -6,6 +6,6 @@
 - Week 11 为课堂作业，因为对题意理解有巨大偏差，未通过，请不要参考。
 - 大作业在 GraphGenDecomp 存储库中。
 
-A work worth 200W: [Week08](./Week08/FLTKUseAndDesign/FLTK1/1/hyperelliptic.cpp)
+值200W的好活: [Week08](./Week08/FLTKUseAndDesign/FLTK1/1/hyperelliptic.cpp)
 
 ![](200W.png)
